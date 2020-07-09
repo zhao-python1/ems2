@@ -1,0 +1,2308 @@
+INFO 2020-07-08 20:50:39,084 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:51:55,237 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 20:51:57,151 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:01:55,621 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:05:39,083 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 21:05:39,122 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2020-07-08 21:05:39,497 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-07-08 21:05:39,498 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-07-08 21:05:39,500 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+WARNING 2020-07-08 21:05:39,811 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 21:05:39,812 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+WARNING 2020-07-08 21:05:59,320 log 228 Not Found: /User
+WARNING 2020-07-08 21:05:59,321 basehttp 157 "GET /User HTTP/1.1" 404 1956
+INFO 2020-07-08 21:18:18,175 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:18:20,109 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:19:22,412 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:19:24,187 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:22:08,492 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:22:10,526 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:24:03,113 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:24:04,827 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:27:04,715 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:27:06,535 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:27:44,928 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:27:46,761 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:28:06,835 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:28:08,635 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:50:00,459 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:50:06,782 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:50:23,286 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:50:25,200 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:51:03,101 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:51:04,298 log 228 Bad Request: /
+WARNING 2020-07-08 22:51:04,299 basehttp 157 "GET / HTTP/1.1" 400 72078
+ERROR 2020-07-08 22:51:05,893 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:51:05,956 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:51:05,957 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71989
+INFO 2020-07-08 22:51:39,378 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:51:41,618 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:52:17,706 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:52:17,772 log 228 Bad Request: /
+WARNING 2020-07-08 22:52:17,772 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 22:52:18,094 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:52:18,148 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:52:18,149 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 22:54:25,642 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:54:32,029 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:54:32,121 log 228 Bad Request: /
+WARNING 2020-07-08 22:54:32,122 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 22:54:32,631 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:54:32,708 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 22:54:32,709 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 22:56:29,670 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:59:22,291 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:59:53,302 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 22:59:55,820 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:00:01,325 basehttp 157 "GET / HTTP/1.1" 200 16351
+WARNING 2020-07-08 23:00:01,888 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 23:00:01,889 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2020-07-08 23:00:27,531 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:00:30,144 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:02:26,534 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:02:55,603 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9002'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:02:55,675 log 228 Bad Request: /
+WARNING 2020-07-08 23:02:55,676 basehttp 157 "GET / HTTP/1.1" 400 72243
+INFO 2020-07-08 23:04:24,893 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:04:28,871 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:04:28,984 log 228 Bad Request: /
+WARNING 2020-07-08 23:04:28,986 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:04:29,490 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:04:29,587 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:04:29,590 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:05:31,620 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:05:34,117 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:05:34,239 log 228 Bad Request: /
+WARNING 2020-07-08 23:05:34,245 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:05:34,763 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:05:34,839 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:05:34,840 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:08:15,379 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:08:18,194 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:08:18,298 log 228 Bad Request: /
+WARNING 2020-07-08 23:08:18,299 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:08:19,560 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:08:19,622 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:08:19,623 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+ERROR 2020-07-08 23:09:49,855 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:09:49,938 log 228 Bad Request: /
+WARNING 2020-07-08 23:09:49,939 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:09:50,979 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9005'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:09:51,040 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:09:51,041 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:10:26,881 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:10:29,203 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:29,330 log 228 Bad Request: /
+WARNING 2020-07-08 23:10:29,331 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:10:30,097 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:30,191 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:10:30,192 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+ERROR 2020-07-08 23:10:54,505 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:54,608 log 228 Bad Request: /
+WARNING 2020-07-08 23:10:54,609 basehttp 157 "GET / HTTP/1.1" 400 72106
+ERROR 2020-07-08 23:10:55,250 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:10:55,324 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:10:55,325 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72017
+INFO 2020-07-08 23:13:48,610 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:42,575 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:51,328 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:16:55,449 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:16:55,527 log 228 Bad Request: /
+WARNING 2020-07-08 23:16:55,529 basehttp 157 "GET / HTTP/1.1" 400 72114
+ERROR 2020-07-08 23:16:55,988 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:16:56,053 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:16:56,056 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 72025
+INFO 2020-07-08 23:17:33,883 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:19:49,400 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:19:51,178 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:20:32,774 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:20:34,569 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:14,778 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:21:16,726 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:26,948 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 23:23:42,193 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:42,274 log 228 Bad Request: /
+WARNING 2020-07-08 23:23:42,275 basehttp 157 "GET / HTTP/1.1" 400 71303
+ERROR 2020-07-08 23:23:42,569 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:42,633 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:23:42,634 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71214
+ERROR 2020-07-08 23:23:51,535 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:51,634 log 228 Bad Request: /
+WARNING 2020-07-08 23:23:51,635 basehttp 157 "GET / HTTP/1.1" 400 71303
+ERROR 2020-07-08 23:23:51,993 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 23:23:52,049 log 228 Bad Request: /favicon.ico
+WARNING 2020-07-08 23:23:52,050 basehttp 157 "GET /favicon.ico HTTP/1.1" 400 71214
+INFO 2020-07-08 23:23:53,162 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:23:58,562 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:24:00,371 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 23:24:00,445 basehttp 157 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+WARNING 2020-07-08 23:24:00,633 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 23:24:00,634 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1977
+INFO 2020-07-08 23:24:00,639 basehttp 157 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2020-07-08 23:24:00,640 basehttp 157 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2020-07-08 23:24:00,642 basehttp 157 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2020-07-08 23:24:15,477 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:24:17,567 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:15:35,044 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:15:40,739 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:15:47,689 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:17:33,672 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:17:35,653 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:19:55,915 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 00:19:57,896 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:21:01,958 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 00:21:04,415 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:22:25,281 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:22:27,443 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:22:38,009 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:22:40,195 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:23:02,387 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:23:04,517 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:23:46,413 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:23:48,387 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:02:20,738 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:09:11,188 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:09:13,166 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:09:41,936 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:09:43,868 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:15:16,519 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:18:16,764 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:18:19,131 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:19:25,805 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\settings\develop.py changed, reloading.
+INFO 2020-07-09 01:19:27,839 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:20:48,496 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 01:20:50,561 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:21:19,691 autoreload 222 E:\python_django2\DRF\last_project\edu_project\edu_project\urls.py changed, reloading.
+INFO 2020-07-09 01:21:21,649 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 01:40:30,277 autoreload 222 E:\python2002\env2002\Lib\site-packages\django\conf\locale\__init__.py changed, reloading.
+ERROR 2020-07-09 01:56:59,381 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 01:56:59,471 basehttp 124 "GET / HTTP/1.1" 400 71134
+ERROR 2020-07-09 01:56:59,955 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 01:57:00,015 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71046
+WARNING 2020-07-09 01:57:34,769 base 93 Not Found: /
+WARNING 2020-07-09 01:57:34,771 basehttp 124 "GET / HTTP/1.1" 404 2051
+WARNING 2020-07-09 01:57:34,907 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 01:57:34,908 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2102
+INFO 2020-07-09 01:57:52,157 basehttp 124 "GET /xadmin HTTP/1.1" 301 0
+INFO 2020-07-09 01:57:52,253 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4167
+INFO 2020-07-09 01:57:52,285 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2020-07-09 01:57:52,295 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2020-07-09 01:57:52,305 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2020-07-09 01:57:52,306 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2020-07-09 01:57:52,306 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2020-07-09 01:57:52,308 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2020-07-09 01:57:52,326 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4174
+INFO 2020-07-09 01:57:52,328 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2020-07-09 01:57:52,338 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2020-07-09 01:57:52,358 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2020-07-09 01:57:52,359 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2020-07-09 01:57:52,360 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2020-07-09 01:57:52,361 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2020-07-09 01:57:52,415 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2020-07-09 01:57:52,415 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2020-07-09 01:57:52,551 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2020-07-09 02:02:56,758 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:03:00,970 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 9832
+INFO 2020-07-09 02:03:01,014 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,028 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,029 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,030 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,031 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,032 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2020-07-09 02:03:01,034 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,058 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,058 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,059 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,063 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2020-07-09 02:03:01,063 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2020-07-09 02:03:01,064 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,079 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,080 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,098 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:01,098 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:03:05,158 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:03:05,176 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,751 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 13253
+INFO 2020-07-09 02:08:41,804 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,827 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,829 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,829 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,830 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,830 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,831 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,862 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,863 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,865 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,866 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2020-07-09 02:08:41,867 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,869 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2020-07-09 02:08:41,891 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,893 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,893 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,906 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,907 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:41,915 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:08:45,926 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:08:46,120 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,798 basehttp 124 "GET /xadmin/xadmin/userwidget/add/?user=1&page_id=home&_redirect=/xadmin/ HTTP/1.1" 200 18611
+INFO 2020-07-09 02:11:07,854 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,872 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,872 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,879 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,879 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,881 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2020-07-09 02:11:07,884 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,893 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,900 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,901 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,907 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,914 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2020-07-09 02:11:07,915 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,923 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,924 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,928 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,940 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,944 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:07,945 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:12,104 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:11:12,265 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 02:11:20,692 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 23951
+INFO 2020-07-09 02:11:20,721 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2020-07-09 02:11:20,725 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2020-07-09 02:11:20,733 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2020-07-09 02:11:20,734 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2020-07-09 02:11:24,741 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:11:31,423 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19492
+INFO 2020-07-09 02:11:31,443 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2020-07-09 02:11:31,459 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2020-07-09 02:11:31,461 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2020-07-09 02:11:35,480 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:12:16,898 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:12:21,034 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19843
+INFO 2020-07-09 02:12:25,099 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:12:49,827 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:12:53,957 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 19842
+INFO 2020-07-09 02:12:58,006 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:13:29,701 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 02:13:33,879 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29182
+INFO 2020-07-09 02:13:33,915 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,933 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,933 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,943 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,948 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,961 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,967 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,970 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,970 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,975 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,976 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2020-07-09 02:13:33,992 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,992 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,993 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,996 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:33,997 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,022 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,022 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,023 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,024 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:34,024 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 02:13:38,008 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 02:42:07,731 basehttp 124 "GET /first/banner HTTP/1.1" 301 0
+INFO 2020-07-09 02:42:11,829 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+INFO 2020-07-09 02:42:11,900 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2020-07-09 02:42:11,902 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2020-07-09 02:42:11,912 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2020-07-09 02:42:11,914 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2020-07-09 02:42:11,914 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2020-07-09 02:42:11,918 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2020-07-09 02:42:11,933 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2020-07-09 02:42:11,946 basehttp 124 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+INFO 2020-07-09 02:42:12,026 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2020-07-09 02:42:12,026 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2020-07-09 02:42:12,090 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2020-07-09 02:42:37,157 basehttp 124 "OPTIONS /first/banner/ HTTP/1.1" 200 5628
+INFO 2020-07-09 02:42:39,005 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+ERROR 2020-07-09 02:42:39,054 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 02:43:12,638 basehttp 124 "GET /first/banner/?format=api HTTP/1.1" 200 5306
+INFO 2020-07-09 02:43:21,040 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
+INFO 2020-07-09 02:44:45,645 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:32:34,488 base 93 Not Found: /
+WARNING 2020-07-09 07:32:34,503 basehttp 124 "GET / HTTP/1.1" 404 2157
+WARNING 2020-07-09 07:32:34,696 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 07:32:34,697 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2208
+INFO 2020-07-09 07:33:07,520 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:33:16,282 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+INFO 2020-07-09 07:33:29,819 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+WARNING 2020-07-09 07:33:29,881 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 404 1744
+INFO 2020-07-09 07:33:44,917 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
+INFO 2020-07-09 07:34:36,447 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 07:34:36,503 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,504 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,560 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,561 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,562 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,562 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,563 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,563 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,567 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,614 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,614 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,615 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,616 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,639 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,639 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,640 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:36,642 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:34:40,762 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:34:40,966 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+ERROR 2020-07-09 07:34:50,875 exception 118 Internal Server Error: /xadmin/first_one/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'api.b_one' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\sites.py", line 300, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\sites.py", line 208, in inner
+    return view(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 282, in view
+    return handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 62, in _wrapper
+    return bound_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\decorators.py", line 58, in bound_func
+    return func.__get__(self, type(self))(*args2, **kwargs2)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 401, in get
+    response = self.get_result_list()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 80, in method
+    return filter_chain(filters, len(filters) - 1, _inner_method, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 49, in filter_chain
+    return func()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\base.py", line 74, in _inner_method
+    return func(self, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 200, in get_result_list
+    return self.make_result_list()
+  File "E:\python2002\env2002\lib\site-packages\xadmin\views\list.py", line 177, in make_result_list
+    self.result_count = self.paginator.count
+  File "E:\python2002\env2002\lib\site-packages\django\utils\functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "E:\python2002\env2002\lib\site-packages\django\core\paginator.py", line 85, in count
+    return self.object_list.count()
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\query.py", line 387, in count
+    return self.query.get_count(using=self.db)
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\query.py", line 491, in get_count
+    number = obj.get_aggregation(using, ['__count'])['__count']
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\query.py", line 476, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "E:\python2002\env2002\lib\site-packages\django\db\models\sql\compiler.py", line 1068, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\python2002\env2002\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "E:\python2002\env2002\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'api.b_one' doesn't exist")
+ERROR 2020-07-09 07:34:51,732 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 500 231651
+INFO 2020-07-09 07:34:59,394 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 07:35:07,357 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29309
+INFO 2020-07-09 07:35:07,390 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,419 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,420 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,420 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,421 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,421 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:07,429 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 07:35:11,494 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:11,620 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 24943
+INFO 2020-07-09 07:50:15,754 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:22,072 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 07:50:22,125 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+INFO 2020-07-09 07:50:22,136 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2020-07-09 07:50:22,136 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2020-07-09 07:50:22,137 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2020-07-09 07:50:22,139 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2020-07-09 07:50:22,140 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2020-07-09 07:50:22,146 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2020-07-09 07:50:26,182 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:50:59,175 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:51:03,352 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:51:07,445 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:51:23,090 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:51:27,293 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:51:31,369 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:52:01,221 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:52:05,453 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:52:09,537 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 07:52:25,542 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 07:52:29,747 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 07:52:33,846 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 08:43:30,264 basehttp 124 "GET /first/banner/?format=json HTTP/1.1" 200 2
+WARNING 2020-07-09 09:24:57,584 base 93 Not Found: /
+WARNING 2020-07-09 09:24:57,586 basehttp 124 "GET / HTTP/1.1" 404 2157
+INFO 2020-07-09 09:25:14,530 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+ERROR 2020-07-09 09:25:14,564 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 09:25:18,465 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 5262
+INFO 2020-07-09 09:35:31,995 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29309
+INFO 2020-07-09 09:35:32,048 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,088 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,090 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,090 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,091 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,091 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,091 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,130 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,131 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,132 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,133 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,134 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,172 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,176 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,176 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,176 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,181 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,234 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,235 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,238 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,239 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,242 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:32,254 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:36,194 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:35:36,479 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 09:35:55,452 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30448
+INFO 2020-07-09 09:35:59,528 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:36:04,940 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29309
+INFO 2020-07-09 09:36:09,020 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:36:24,992 basehttp 124 "GET /xadmin/first_one/banner/3/update/ HTTP/1.1" 200 20416
+INFO 2020-07-09 09:36:25,029 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:36:25,084 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:36:25,130 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:36:25,151 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:36:25,231 basehttp 124 "GET /media/banner/j%E7%BD%97.jpg HTTP/1.1" 200 18459
+INFO 2020-07-09 09:36:29,066 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:37:04,632 basehttp 124 "POST /xadmin/first_one/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:37:08,835 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29544
+INFO 2020-07-09 09:37:12,936 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:37:19,447 basehttp 124 "GET /xadmin/first_one/banner/2/update/ HTTP/1.1" 200 20404
+INFO 2020-07-09 09:37:19,569 basehttp 124 "GET /media/banner/kaka.png HTTP/1.1" 200 235491
+INFO 2020-07-09 09:37:23,525 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:37:35,979 basehttp 124 "POST /xadmin/first_one/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:37:40,141 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 20203
+INFO 2020-07-09 09:37:44,218 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:38:22,016 basehttp 124 "GET /xadmin/first_one/banner/2/update/ HTTP/1.1" 200 20440
+INFO 2020-07-09 09:38:22,041 basehttp 124 "GET /media/banner/%E8%B4%9D%E5%B0%94.png HTTP/1.1" 200 155796
+INFO 2020-07-09 09:38:31,130 basehttp 124 "POST /xadmin/first_one/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:38:35,255 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 20203
+INFO 2020-07-09 09:38:39,314 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:38:46,570 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29311
+INFO 2020-07-09 09:38:50,626 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:39:00,104 basehttp 124 "GET /xadmin/first_one/banner/1/update/ HTTP/1.1" 200 20404
+INFO 2020-07-09 09:39:00,215 basehttp 124 "GET /media/banner/LM.png HTTP/1.1" 200 795151
+INFO 2020-07-09 09:39:04,168 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:39:17,987 basehttp 124 "POST /xadmin/first_one/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:39:22,165 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29547
+INFO 2020-07-09 09:39:26,222 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:39:33,329 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30448
+INFO 2020-07-09 09:39:37,396 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:39:52,614 basehttp 124 "GET /xadmin/first_one/nav/4/update/ HTTP/1.1" 200 19549
+INFO 2020-07-09 09:39:52,638 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,652 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,652 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,669 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,670 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,670 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:52,671 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2020-07-09 09:39:56,692 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:40:10,688 basehttp 124 "POST /xadmin/first_one/nav/4/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:40:14,890 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30684
+INFO 2020-07-09 09:40:18,961 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:40:25,653 basehttp 124 "GET /xadmin/first_one/nav/3/update/ HTTP/1.1" 200 19549
+INFO 2020-07-09 09:40:29,706 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:40:38,665 basehttp 124 "POST /xadmin/first_one/nav/3/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:40:42,787 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30685
+INFO 2020-07-09 09:40:46,851 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:40:53,403 basehttp 124 "GET /xadmin/first_one/nav/2/update/ HTTP/1.1" 200 19549
+INFO 2020-07-09 09:40:57,458 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:41:06,682 basehttp 124 "POST /xadmin/first_one/nav/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:41:10,889 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30686
+INFO 2020-07-09 09:41:14,941 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:41:21,096 basehttp 124 "GET /xadmin/first_one/nav/1/update/ HTTP/1.1" 200 19549
+INFO 2020-07-09 09:41:25,156 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 09:41:34,538 basehttp 124 "POST /xadmin/first_one/nav/1/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 09:41:38,711 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30687
+INFO 2020-07-09 09:41:42,789 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+WARNING 2020-07-09 09:42:01,483 base 93 Not Found: /
+WARNING 2020-07-09 09:42:01,485 basehttp 124 "GET / HTTP/1.1" 404 2157
+INFO 2020-07-09 09:42:11,921 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 6178
+ERROR 2020-07-09 09:42:11,923 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 09:42:15,884 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 6178
+INFO 2020-07-09 09:42:23,821 basehttp 124 "GET /media/banner/j%E7%BD%97_xGm0kfk.jpg HTTP/1.1" 200 18459
+WARNING 2020-07-09 16:38:44,912 base 93 Not Found: /
+WARNING 2020-07-09 16:38:44,914 basehttp 124 "GET / HTTP/1.1" 404 2157
+INFO 2020-07-09 16:39:56,741 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 6178
+INFO 2020-07-09 16:41:05,279 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 6178
+INFO 2020-07-09 16:41:22,799 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 5870
+ERROR 2020-07-09 17:05:00,825 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:05:02,407 basehttp 124 "GET / HTTP/1.1" 400 71950
+ERROR 2020-07-09 17:12:23,633 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:12:24,088 basehttp 124 "GET / HTTP/1.1" 400 71950
+ERROR 2020-07-09 17:12:31,215 exception 74 Invalid HTTP_HOST header: 'api.baizhis.com:9001'. You may need to add 'api.baizhis.com' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:12:31,267 basehttp 124 "GET / HTTP/1.1" 400 70749
+ERROR 2020-07-09 17:12:31,603 exception 74 Invalid HTTP_HOST header: 'api.baizhis.com:9001'. You may need to add 'api.baizhis.com' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:12:31,648 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 70794
+ERROR 2020-07-09 17:15:24,852 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:15:25,316 basehttp 124 "GET / HTTP/1.1" 400 71974
+WARNING 2020-07-09 17:15:36,833 base 93 Not Found: /
+WARNING 2020-07-09 17:15:36,833 basehttp 124 "GET / HTTP/1.1" 404 2163
+WARNING 2020-07-09 17:15:36,975 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 17:15:36,976 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2214
+INFO 2020-07-09 17:22:33,659 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 303
+ERROR 2020-07-09 17:22:33,694 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:22:37,048 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 303
+INFO 2020-07-09 17:22:37,146 basehttp 124 "GET /media/banner/%E8%B4%9D%E5%B0%94_Z8LADMc.png HTTP/1.1" 200 155796
+INFO 2020-07-09 17:22:37,215 basehttp 124 "GET /media/banner/j%E7%BD%97_xGm0kfk.jpg HTTP/1.1" 200 18459
+INFO 2020-07-09 17:22:37,217 basehttp 124 "GET /media/banner/%E8%BF%AA%E5%B7%B4%E6%8B%89.png HTTP/1.1" 200 151821
+INFO 2020-07-09 17:22:57,698 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 303
+ERROR 2020-07-09 17:22:57,699 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:23:00,138 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 303
+ERROR 2020-07-09 17:23:09,641 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:23:09,675 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 400 72408
+INFO 2020-07-09 17:23:57,000 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 4383
+INFO 2020-07-09 17:23:57,086 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2020-07-09 17:23:57,163 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2020-07-09 17:23:57,168 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2020-07-09 17:23:57,171 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2020-07-09 17:23:57,172 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2020-07-09 17:23:57,174 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2020-07-09 17:23:57,187 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2020-07-09 17:23:57,194 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2020-07-09 17:23:57,236 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2020-07-09 17:23:57,249 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2020-07-09 17:23:57,283 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2020-07-09 17:23:57,353 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 17:23:57,354 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2020-07-09 17:23:57,354 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2020-07-09 17:23:57,356 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2020-07-09 17:23:57,469 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2020-07-09 17:23:57,477 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2020-07-09 17:23:57,865 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2020-07-09 17:24:20,473 basehttp 124 "POST /xadmin/first_one/banner/ HTTP/1.1" 302 0
+ERROR 2020-07-09 17:25:42,226 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:25:42,510 basehttp 124 "GET / HTTP/1.1" 400 71974
+ERROR 2020-07-09 17:25:42,878 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 17:25:42,939 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71887
+INFO 2020-07-09 17:26:19,471 basehttp 124 "GET /xadmin HTTP/1.1" 301 0
+INFO 2020-07-09 17:26:29,587 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 17:26:29,699 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2020-07-09 17:26:29,702 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2020-07-09 17:26:29,702 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2020-07-09 17:26:33,742 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+WARNING 2020-07-09 17:26:33,925 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 17:26:33,926 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2214
+INFO 2020-07-09 17:26:41,906 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29312
+INFO 2020-07-09 17:26:41,951 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2020-07-09 17:26:41,954 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2020-07-09 17:26:41,957 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2020-07-09 17:26:41,958 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2020-07-09 17:26:41,971 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2020-07-09 17:26:41,972 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2020-07-09 17:26:41,973 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+INFO 2020-07-09 17:26:46,025 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:27:04,838 basehttp 124 "GET /xadmin/first_one/banner/3/update/ HTTP/1.1" 200 20458
+INFO 2020-07-09 17:27:04,898 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 200 3339
+INFO 2020-07-09 17:27:04,914 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 200 8309
+INFO 2020-07-09 17:27:04,927 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 200 15611
+INFO 2020-07-09 17:27:08,909 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:27:58,422 basehttp 124 "POST /xadmin/first_one/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:28:02,634 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29546
+INFO 2020-07-09 17:28:06,723 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:28:12,710 basehttp 124 "GET /xadmin/first_one/banner/2/update/ HTTP/1.1" 200 20456
+INFO 2020-07-09 17:28:16,770 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:28:30,281 basehttp 124 "POST /xadmin/first_one/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:28:34,410 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29546
+INFO 2020-07-09 17:28:38,492 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:28:44,378 basehttp 124 "GET /xadmin/first_one/banner/1/update/ HTTP/1.1" 200 20444
+INFO 2020-07-09 17:28:48,439 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:29:01,443 basehttp 124 "POST /xadmin/first_one/banner/1/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:29:05,594 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29547
+INFO 2020-07-09 17:29:09,657 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:29:18,209 basehttp 124 "GET /xadmin/first_one/banner/3/update/ HTTP/1.1" 200 20408
+INFO 2020-07-09 17:29:18,268 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 200 737783
+INFO 2020-07-09 17:29:22,276 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:29:35,831 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:29:35,861 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:29:35,864 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 200 364808
+INFO 2020-07-09 17:29:35,867 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 200 745382
+INFO 2020-07-09 17:30:54,653 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+WARNING 2020-07-09 17:32:15,981 base 93 Not Found: /first/v/
+WARNING 2020-07-09 17:32:15,981 basehttp 124 "GET /first/v/ HTTP/1.1" 404 2416
+INFO 2020-07-09 17:32:58,854 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+ERROR 2020-07-09 17:32:58,856 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:33:00,334 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+ERROR 2020-07-09 17:33:00,335 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:33:03,378 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+INFO 2020-07-09 17:33:41,427 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+ERROR 2020-07-09 17:33:41,428 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:33:42,326 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:33:42,361 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:33:42,363 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:33:42,367 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:33:48,463 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:35:35,107 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+INFO 2020-07-09 17:44:54,791 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+ERROR 2020-07-09 17:44:54,792 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:44:57,200 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+INFO 2020-07-09 17:44:57,208 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:44:57,226 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:44:57,234 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:44:57,235 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:45:14,493 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30452
+INFO 2020-07-09 17:45:18,549 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:46:40,465 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:46:40,469 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+INFO 2020-07-09 17:46:40,490 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:46:40,498 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:46:40,500 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:47:06,785 basehttp 124 "GET /xadmin/first_one/nav/4/update/ HTTP/1.1" 200 19565
+INFO 2020-07-09 17:47:06,849 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 200 694
+INFO 2020-07-09 17:47:06,886 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2020-07-09 17:47:06,887 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2020-07-09 17:47:06,889 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2020-07-09 17:47:06,895 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2020-07-09 17:47:06,898 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2020-07-09 17:47:06,908 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+INFO 2020-07-09 17:47:10,947 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:48:43,972 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+ERROR 2020-07-09 17:48:43,974 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:48:43,976 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+ERROR 2020-07-09 17:48:43,979 basehttp 124 "GET /first/banner/ HTTP/1.1" 500 59
+INFO 2020-07-09 17:48:48,306 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 153
+INFO 2020-07-09 17:48:48,314 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:48:48,356 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:48:48,367 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:48:48,368 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:50:12,815 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 30452
+INFO 2020-07-09 17:50:16,886 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:50:28,401 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 17:50:32,463 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:51:10,280 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:51:14,552 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 31345
+INFO 2020-07-09 17:51:18,661 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:51:30,263 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:51:30,274 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 192
+INFO 2020-07-09 17:51:30,288 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:51:30,297 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:51:30,298 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:51:59,567 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:51:59,570 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 192
+INFO 2020-07-09 17:57:53,228 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 17:57:53,233 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 17:57:53,263 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:57:53,263 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:57:53,265 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 17:57:57,278 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 17:58:38,928 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 17:58:43,034 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:58:44,972 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 17:58:49,032 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:59:14,942 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:59:19,170 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 31938
+INFO 2020-07-09 17:59:23,232 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:59:30,114 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 17:59:34,177 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 17:59:51,543 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 17:59:55,717 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 32531
+INFO 2020-07-09 17:59:59,786 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:00:05,848 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19237
+INFO 2020-07-09 18:00:09,919 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:00:29,484 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:00:33,609 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 18:00:37,686 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:00:56,586 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:01:00,706 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19585
+INFO 2020-07-09 18:01:04,772 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:01:20,197 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:01:24,326 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19586
+INFO 2020-07-09 18:01:28,399 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:01:52,023 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:01:56,230 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34912
+INFO 2020-07-09 18:02:00,281 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:02:11,254 basehttp 124 "GET /xadmin/first_one/nav/11/update/ HTTP/1.1" 200 19559
+INFO 2020-07-09 18:02:15,317 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:02:21,890 basehttp 124 "POST /xadmin/first_one/nav/11/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:02:26,119 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 18:02:30,188 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:04:33,628 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 18:04:33,642 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:04:33,647 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:04:33,649 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:04:33,656 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:04:37,714 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:04:57,346 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:04:57,350 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 18:05:01,394 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+ERROR 2020-07-09 18:05:01,396 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 18:05:04,923 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:05:04,940 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 238
+INFO 2020-07-09 18:05:08,969 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:10:11,106 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:13:37,873 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29312
+INFO 2020-07-09 18:13:41,949 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:13:47,645 basehttp 124 "GET /xadmin/first_one/banner/3/update/ HTTP/1.1" 200 20408
+INFO 2020-07-09 18:13:47,838 basehttp 124 "GET /media/banner/01.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:13:51,726 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:14:44,675 basehttp 124 "POST /xadmin/first_one/banner/3/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:14:48,864 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29546
+INFO 2020-07-09 18:14:52,955 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:14:58,552 basehttp 124 "GET /xadmin/first_one/banner/2/update/ HTTP/1.1" 200 20408
+INFO 2020-07-09 18:14:58,612 basehttp 124 "GET /media/banner/02.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:15:02,617 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:15:52,969 basehttp 124 "POST /xadmin/first_one/banner/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 18:15:57,586 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 29546
+INFO 2020-07-09 18:16:01,665 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 18:17:36,166 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:17:36,198 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:17:36,213 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:17:36,226 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 200 364808
+INFO 2020-07-09 18:17:36,235 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 200 737783
+INFO 2020-07-09 18:17:40,210 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+ERROR 2020-07-09 18:17:40,212 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 59
+INFO 2020-07-09 18:17:42,055 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:17:42,056 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+INFO 2020-07-09 18:17:46,105 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 507
+ERROR 2020-07-09 18:26:31,848 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:26:32,446 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151989
+ERROR 2020-07-09 18:26:32,461 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:26:32,527 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151988
+INFO 2020-07-09 18:26:35,883 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:26:35,917 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:26:35,917 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:26:35,919 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+ERROR 2020-07-09 18:27:57,154 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:27:57,257 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+ERROR 2020-07-09 18:27:57,274 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:27:57,395 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+INFO 2020-07-09 18:28:01,201 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:28:01,228 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:28:01,230 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+ERROR 2020-07-09 18:28:43,311 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:28:43,402 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+ERROR 2020-07-09 18:28:43,416 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:28:43,472 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+INFO 2020-07-09 18:28:47,364 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+ERROR 2020-07-09 18:34:16,928 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:34:17,005 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+ERROR 2020-07-09 18:34:17,020 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:34:17,073 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+INFO 2020-07-09 18:34:20,964 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:34:20,982 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:34:20,992 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:34:20,992 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+ERROR 2020-07-09 18:36:33,923 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:36:34,007 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151989
+ERROR 2020-07-09 18:36:34,022 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:36:34,090 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151989
+INFO 2020-07-09 18:36:37,944 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+ERROR 2020-07-09 18:38:57,905 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:38:57,969 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151989
+ERROR 2020-07-09 18:38:57,982 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:38:58,052 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 151989
+INFO 2020-07-09 18:39:01,947 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 18:39:01,986 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 18:39:01,988 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+ERROR 2020-07-09 18:39:02,924 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:39:03,015 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+ERROR 2020-07-09 18:39:03,036 exception 118 Internal Server Error: /first/nav/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 757, in data
+    ret = super().data
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 261, in data
+    self._data = self.to_representation(self.instance)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\serializers.py", line 675, in to_representation
+    self.child.to_representation(item) for item in iterable
+TypeError: 'Nav' object is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 18:39:03,151 basehttp 124 "GET /first/nav/ HTTP/1.1" 500 152000
+INFO 2020-07-09 18:39:06,959 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:17:00,869 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:17:00,874 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:17:00,897 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:17:00,898 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:17:00,899 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:17:04,939 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:18:05,641 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:18:05,652 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:18:09,692 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:18:10,977 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:18:13,733 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:18:17,794 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:21:16,689 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:21:16,693 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:21:20,740 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:23:45,708 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:23:45,721 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:23:45,754 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:23:45,755 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:23:49,743 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+ERROR 2020-07-09 19:24:37,131 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 19:24:37,816 basehttp 124 "GET / HTTP/1.1" 400 71974
+ERROR 2020-07-09 19:24:38,558 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 19:24:38,608 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71887
+WARNING 2020-07-09 19:24:46,766 base 93 Not Found: /
+WARNING 2020-07-09 19:24:46,768 basehttp 124 "GET / HTTP/1.1" 404 2163
+WARNING 2020-07-09 19:24:46,936 base 93 Not Found: /favicon.ico
+WARNING 2020-07-09 19:24:46,938 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 2214
+INFO 2020-07-09 19:25:03,540 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 14831
+INFO 2020-07-09 19:25:03,583 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,609 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,623 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,628 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,629 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,630 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,632 basehttp 124 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,642 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,690 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,690 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,690 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,690 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,692 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,744 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,744 basehttp 124 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,747 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,758 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,759 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:03,780 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:07,734 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:25:07,906 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,424 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34612
+INFO 2020-07-09 19:25:16,450 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,499 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,499 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,499 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,499 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,500 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:16,513 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:20,564 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:25:41,295 basehttp 124 "GET /xadmin/first_one/nav/1/update/ HTTP/1.1" 200 19565
+INFO 2020-07-09 19:25:41,328 basehttp 124 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,362 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,363 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,389 basehttp 124 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,389 basehttp 124 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,394 basehttp 124 "GET /static/xadmin/vendor/select2/select2_locale_zh-hans.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:41,394 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:25:45,395 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:25:51,187 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34612
+INFO 2020-07-09 19:25:56,819 basehttp 124 "GET /xadmin/first_one/nav/2/update/ HTTP/1.1" 200 19565
+INFO 2020-07-09 19:26:00,895 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:26:54,332 basehttp 124 "POST /xadmin/first_one/nav/2/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:26:58,569 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:27:02,646 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:27:09,757 basehttp 124 "GET /xadmin/first_one/nav/3/update/ HTTP/1.1" 200 19565
+INFO 2020-07-09 19:27:13,848 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:27:21,849 basehttp 124 "POST /xadmin/first_one/nav/3/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:27:26,095 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:27:30,193 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:27:38,243 basehttp 124 "GET /xadmin/first_one/nav/4/update/ HTTP/1.1" 200 19565
+INFO 2020-07-09 19:27:42,336 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:27:49,951 basehttp 124 "POST /xadmin/first_one/nav/4/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:27:54,169 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:27:58,256 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:28:05,837 basehttp 124 "GET /xadmin/first_one/nav/5/update/ HTTP/1.1" 200 19557
+INFO 2020-07-09 19:28:09,918 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:28:17,000 basehttp 124 "POST /xadmin/first_one/nav/5/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:28:21,235 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:28:25,315 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:28:31,272 basehttp 124 "GET /xadmin/first_one/nav/6/update/ HTTP/1.1" 200 19557
+INFO 2020-07-09 19:28:35,366 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:28:42,887 basehttp 124 "POST /xadmin/first_one/nav/6/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:28:47,076 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:28:51,156 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:28:57,047 basehttp 124 "GET /xadmin/first_one/nav/7/update/ HTTP/1.1" 200 19557
+INFO 2020-07-09 19:29:01,139 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:29:09,327 basehttp 124 "POST /xadmin/first_one/nav/7/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:29:13,584 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:29:17,668 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:29:23,895 basehttp 124 "GET /xadmin/first_one/nav/8/update/ HTTP/1.1" 200 19557
+INFO 2020-07-09 19:29:27,968 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:29:38,176 basehttp 124 "POST /xadmin/first_one/nav/8/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:29:42,403 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:29:46,496 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:29:53,262 basehttp 124 "GET /xadmin/first_one/nav/9/update/ HTTP/1.1" 200 19557
+INFO 2020-07-09 19:29:57,329 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:30:05,573 basehttp 124 "POST /xadmin/first_one/nav/9/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:30:09,801 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34847
+INFO 2020-07-09 19:30:13,877 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:34:17,464 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 231
+ERROR 2020-07-09 19:34:17,534 basehttp 124 "GET /first/navs/ HTTP/1.1" 500 59
+INFO 2020-07-09 19:34:22,423 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:34:22,429 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 275
+INFO 2020-07-09 19:34:22,432 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 231
+INFO 2020-07-09 19:34:22,459 basehttp 124 "GET /media/banner/03.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:34:22,469 basehttp 124 "GET /media/banner/02_w640PIG.png HTTP/1.1" 304 0
+INFO 2020-07-09 19:34:22,472 basehttp 124 "GET /media/banner/01_uHMafdi.png HTTP/1.1" 304 0
+ERROR 2020-07-09 19:49:19,786 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 19:49:20,180 basehttp 124 "GET / HTTP/1.1" 400 72014
+ERROR 2020-07-09 19:49:20,620 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 19:49:20,661 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 71927
+INFO 2020-07-09 19:49:29,583 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 4366
+INFO 2020-07-09 19:49:29,650 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 19:49:52,032 basehttp 124 "POST /xadmin/ HTTP/1.1" 200 4603
+INFO 2020-07-09 19:49:52,077 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 19:50:20,707 basehttp 124 "POST /xadmin/ HTTP/1.1" 200 4603
+INFO 2020-07-09 19:50:20,738 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 19:50:24,519 basehttp 124 "POST /xadmin/ HTTP/1.1" 200 4582
+INFO 2020-07-09 19:50:24,553 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 19:50:41,119 basehttp 124 "POST /xadmin/ HTTP/1.1" 200 4603
+INFO 2020-07-09 19:50:41,147 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4373
+INFO 2020-07-09 19:54:24,612 basehttp 124 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:54:30,801 basehttp 124 "GET /xadmin/ HTTP/1.1" 200 15585
+INFO 2020-07-09 19:54:34,866 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:54:45,047 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 25697
+INFO 2020-07-09 19:54:49,111 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:54:55,221 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 25134
+INFO 2020-07-09 19:54:59,283 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:55:04,771 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 20675
+INFO 2020-07-09 19:55:04,817 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css HTTP/1.1" 304 0
+INFO 2020-07-09 19:55:04,820 basehttp 124 "GET /static/xadmin/vendor/load-image/load-image.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:55:04,820 basehttp 124 "GET /static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js HTTP/1.1" 304 0
+INFO 2020-07-09 19:55:08,857 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:55:47,848 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:55:51,977 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 21027
+INFO 2020-07-09 19:55:56,050 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:56:17,570 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:56:21,690 basehttp 124 "GET /xadmin/first_one/banner/add/ HTTP/1.1" 200 21027
+INFO 2020-07-09 19:56:25,771 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:56:48,211 basehttp 124 "POST /xadmin/first_one/banner/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:56:52,407 basehttp 124 "GET /xadmin/first_one/banner/ HTTP/1.1" 200 30369
+INFO 2020-07-09 19:56:56,484 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:57:15,642 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 25697
+INFO 2020-07-09 19:57:19,705 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:57:25,954 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 19991
+INFO 2020-07-09 19:57:30,027 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:57:52,019 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:57:56,155 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20336
+INFO 2020-07-09 19:58:00,242 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:58:26,269 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:58:30,405 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 19:58:34,480 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:59:05,202 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 19:59:09,343 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20336
+INFO 2020-07-09 19:59:13,417 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 19:59:58,978 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:00:03,117 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 20:00:07,186 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:00:40,723 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:00:44,870 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 20:00:48,953 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:01:08,971 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:01:13,104 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 20:01:17,176 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:01:42,725 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:01:46,887 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 20:01:50,964 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:02:17,574 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:02:21,729 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20339
+INFO 2020-07-09 20:02:25,807 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:02:50,307 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:02:54,466 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 34464
+INFO 2020-07-09 20:02:58,538 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:03:07,709 basehttp 124 "GET /xadmin/first_one/nav/6/update/ HTTP/1.1" 200 20314
+INFO 2020-07-09 20:03:11,785 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:03:18,812 basehttp 124 "POST /xadmin/first_one/nav/6/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:03:22,949 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20274
+INFO 2020-07-09 20:03:27,033 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:03:49,056 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:03:53,176 basehttp 124 "GET /xadmin/first_one/nav/add/ HTTP/1.1" 200 20340
+INFO 2020-07-09 20:03:57,239 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:04:17,106 basehttp 124 "POST /xadmin/first_one/nav/add/ HTTP/1.1" 302 0
+INFO 2020-07-09 20:04:21,335 basehttp 124 "GET /xadmin/first_one/nav/ HTTP/1.1" 200 35663
+INFO 2020-07-09 20:04:25,427 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 20:04:33,688 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 20:04:33,693 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 20:04:33,736 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 200 364808
+INFO 2020-07-09 20:04:33,741 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 200 745382
+INFO 2020-07-09 20:04:33,743 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 200 737783
+INFO 2020-07-09 20:04:33,807 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 20:19:22,603 basehttp 124 "GET /user/login HTTP/1.1" 301 0
+ERROR 2020-07-09 20:19:22,621 exception 118 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 173, in http_method_not_allowed
+    raise exceptions.MethodNotAllowed(request.method)
+rest_framework.exceptions.MethodNotAllowed: 方法 “GET” 不被允许。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 20:19:22,990 basehttp 124 "GET /user/login/ HTTP/1.1" 500 136282
+ERROR 2020-07-09 20:22:31,802 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 20:22:32,143 basehttp 124 "GET / HTTP/1.1" 400 72493
+ERROR 2020-07-09 20:22:32,627 exception 74 Invalid HTTP_HOST header: '127.0.0.1:9001'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-09 20:22:32,664 basehttp 124 "GET /favicon.ico HTTP/1.1" 400 72406
+INFO 2020-07-09 20:23:24,259 basehttp 124 "GET /first/banner HTTP/1.1" 301 0
+INFO 2020-07-09 20:23:28,372 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 6145
+INFO 2020-07-09 20:23:28,442 basehttp 124 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2020-07-09 20:23:28,445 basehttp 124 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+INFO 2020-07-09 20:23:28,454 basehttp 124 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2020-07-09 20:23:28,465 basehttp 124 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2020-07-09 20:23:28,485 basehttp 124 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2020-07-09 20:23:28,485 basehttp 124 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2020-07-09 20:23:28,485 basehttp 124 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2020-07-09 20:23:28,486 basehttp 124 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2020-07-09 20:23:28,566 basehttp 124 "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+INFO 2020-07-09 20:23:28,583 basehttp 124 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+INFO 2020-07-09 20:23:28,610 basehttp 124 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+ERROR 2020-07-09 20:23:47,324 exception 118 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 173, in http_method_not_allowed
+    raise exceptions.MethodNotAllowed(request.method)
+rest_framework.exceptions.MethodNotAllowed: 方法 “GET” 不被允许。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utile.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utile'.
+ERROR 2020-07-09 20:23:47,403 basehttp 124 "GET /user/login/ HTTP/1.1" 500 136146
+ERROR 2020-07-09 20:27:17,842 exception 118 Internal Server Error: /user/login/
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 520, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 173, in http_method_not_allowed
+    raise exceptions.MethodNotAllowed(request.method)
+rest_framework.exceptions.MethodNotAllowed: 方法 “GET” 不被允许。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    return import_string(val)
+  File "E:\python2002\env2002\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\赵少博\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'utils.exception'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\exception.py", line 35, in inner
+    response = get_response(request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\python2002\env2002\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\django\views\generic\base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 524, in dispatch
+    response = self.handle_exception(exc)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\views.py", line 305, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 223, in __getattr__
+    val = perform_import(val, attr)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 169, in perform_import
+    return import_from_string(val, setting_name)
+  File "E:\python2002\env2002\lib\site-packages\rest_framework\settings.py", line 183, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'utils.exception.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'utils.exception'.
+ERROR 2020-07-09 20:27:18,114 basehttp 124 "GET /user/login/ HTTP/1.1" 500 129922
+WARNING 2020-07-09 20:29:21,390 basehttp 124 "GET /user/login/ HTTP/1.1" 405 7689
+INFO 2020-07-09 20:29:45,851 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7820
+INFO 2020-07-09 20:30:17,950 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7820
+WARNING 2020-07-09 20:30:40,556 basehttp 124 "POST /user/login/ HTTP/1.1" 400 7731
+INFO 2020-07-09 20:30:56,516 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7820
+INFO 2020-07-09 20:44:40,770 basehttp 124 "OPTIONS /first/nav/ HTTP/1.1" 200 0
+WARNING 2020-07-09 20:44:40,777 basehttp 124 "POST /first/nav/ HTTP/1.1" 405 46
+INFO 2020-07-09 20:45:14,377 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-09 20:45:18,525 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+WARNING 2020-07-09 20:50:21,424 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+INFO 2020-07-09 20:52:25,922 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 20:52:45,727 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 20:53:48,391 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7820
+INFO 2020-07-09 20:54:04,354 basehttp 124 "POST /user/login/ HTTP/1.1" 200 7820
+INFO 2020-07-09 20:54:40,382 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 20:54:50,915 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 20:57:59,003 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+WARNING 2020-07-09 20:58:18,112 basehttp 124 "POST /user/login/ HTTP/1.1" 400 81
+INFO 2020-07-09 20:58:30,526 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 20:58:34,677 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 20:58:34,684 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 20:58:34,692 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 20:58:34,722 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 20:58:34,730 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 20:58:34,731 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-09 21:01:22,405 basehttp 124 "POST /user/login/ HTTP/1.1" 200 191
+INFO 2020-07-09 21:01:26,505 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:01:26,533 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 21:01:26,533 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 21:07:54,182 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 21:07:54,189 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 21:07:54,193 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:07:54,205 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 21:07:54,210 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 21:07:54,213 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-09 21:08:17,836 basehttp 124 "POST /user/login/ HTTP/1.1" 200 218
+INFO 2020-07-09 21:08:21,914 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:08:21,917 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 21:08:21,923 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 21:14:18,986 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:14:18,991 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 21:14:18,999 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 21:14:50,092 basehttp 124 "POST /user/login/ HTTP/1.1" 200 218
+INFO 2020-07-09 21:14:54,150 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:14:54,171 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 21:14:54,176 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 21:16:26,889 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:17:07,955 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:17:51,245 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:18:07,583 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:19:46,605 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 21:27:34,118 basehttp 124 "GET /xadmin/user/logininfo/ HTTP/1.1" 200 35492
+INFO 2020-07-09 21:27:34,346 basehttp 124 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,346 basehttp 124 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,347 basehttp 124 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,347 basehttp 124 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,347 basehttp 124 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,348 basehttp 124 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,422 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,424 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,425 basehttp 124 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,425 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,426 basehttp 124 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,454 basehttp 124 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,456 basehttp 124 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,456 basehttp 124 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,456 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,457 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,485 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,487 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,487 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,487 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,487 basehttp 124 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,502 basehttp 124 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:34,503 basehttp 124 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:38,513 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 21:27:38,557 basehttp 124 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:53,760 basehttp 124 "GET /xadmin/user/logininfo/1/update/ HTTP/1.1" 200 32126
+INFO 2020-07-09 21:27:53,885 basehttp 124 "GET /static/xadmin/css/xadmin.widget.select-transfer.css HTTP/1.1" 200 2317
+INFO 2020-07-09 21:27:53,890 basehttp 124 "GET /static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.css HTTP/1.1" 200 3729
+INFO 2020-07-09 21:27:53,891 basehttp 124 "GET /static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.js HTTP/1.1" 200 21112
+INFO 2020-07-09 21:27:53,892 basehttp 124 "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+INFO 2020-07-09 21:27:53,892 basehttp 124 "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+INFO 2020-07-09 21:27:53,913 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2020-07-09 21:27:53,956 basehttp 124 "GET /static/xadmin/js/xadmin.plugin.quick-form.js HTTP/1.1" 200 7546
+INFO 2020-07-09 21:27:53,957 basehttp 124 "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+INFO 2020-07-09 21:27:53,958 basehttp 124 "GET /static/xadmin/js/xadmin.widget.select-transfer.js HTTP/1.1" 200 8214
+INFO 2020-07-09 21:27:57,862 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+INFO 2020-07-09 21:28:22,347 basehttp 124 "POST /xadmin/user/logininfo/1/update/ HTTP/1.1" 302 0
+INFO 2020-07-09 21:28:26,534 basehttp 124 "GET /xadmin/user/logininfo/ HTTP/1.1" 200 35720
+INFO 2020-07-09 21:28:30,614 basehttp 124 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7684
+ERROR 2020-07-09 22:14:14,208 exceptions 17 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001B664718550> POST name 'username' is not defined
+ERROR 2020-07-09 22:14:14,210 basehttp 124 "POST /user/login/ HTTP/1.1" 500 56
+ERROR 2020-07-09 22:14:16,788 exceptions 17 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001B666762F60> POST name 'username' is not defined
+ERROR 2020-07-09 22:14:16,789 basehttp 124 "POST /user/login/ HTTP/1.1" 500 56
+ERROR 2020-07-09 22:14:54,000 exceptions 17 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001FF2108CEF0> POST name 'username' is not defined
+ERROR 2020-07-09 22:14:54,001 basehttp 124 "POST /user/login/ HTTP/1.1" 500 56
+ERROR 2020-07-09 22:15:00,133 exceptions 17 <rest_framework_jwt.views.ObtainJSONWebToken object at 0x000001FF210B2FD0> POST name 'username' is not defined
+ERROR 2020-07-09 22:15:00,134 basehttp 124 "POST /user/login/ HTTP/1.1" 500 56
+INFO 2020-07-09 22:18:13,348 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-09 22:18:17,517 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:18:17,532 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:18:17,536 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:18:17,559 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:18:17,559 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:18:17,562 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:19:03,664 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-09 22:19:07,729 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:19:07,739 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:19:07,751 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:20:56,811 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:21:29,578 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:22:36,728 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:23:12,900 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:23:36,966 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:24:02,087 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:35:05,261 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:35:05,265 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:35:05,360 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:35:05,474 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:35:05,480 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:35:05,481 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:51:33,240 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-09 22:51:37,406 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-09 22:51:41,572 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:51:41,582 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:51:41,589 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:51:41,644 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:51:41,653 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:51:41,656 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-09 22:52:02,900 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:52:02,917 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:52:02,922 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:52:22,305 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-09 22:52:26,381 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:52:26,387 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:52:26,392 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:52:44,082 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:52:44,087 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:52:44,087 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:55:24,224 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:55:24,233 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:55:24,245 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 22:55:44,461 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-09 22:55:48,557 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 22:55:48,569 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 22:55:48,570 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 23:41:25,056 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 23:41:25,060 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-09 23:41:25,069 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 23:41:25,104 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-09 23:41:25,110 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-09 23:41:25,111 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+WARNING 2020-07-09 23:45:08,054 base 93 Not Found: /captcha/
+WARNING 2020-07-09 23:45:08,054 basehttp 124 "GET /captcha/?username=18400001111 HTTP/1.1" 404 2331
+INFO 2020-07-09 23:45:28,493 basehttp 124 "GET /user/captcha/?username=18400001111 HTTP/1.1" 200 7163
+INFO 2020-07-09 23:51:23,804 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-09 23:51:23,814 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-09 23:51:23,837 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:03:02,050 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:03:02,056 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:03:02,056 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:03:14,157 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:11:21,524 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:12:46,359 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:26:42,684 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:28:54,437 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:28:54,441 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:28:54,445 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:28:54,656 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:28:54,663 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:28:54,664 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:29:25,058 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:29:36,467 basehttp 124 "OPTIONS /user/captcha/ HTTP/1.1" 200 0
+INFO 2020-07-10 00:29:36,491 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:29:40,752 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:29:44,838 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:29:44,847 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:29:44,859 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:30:13,123 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:30:24,648 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:30:28,802 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:30:32,865 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:30:32,872 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:30:32,914 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:36:46,103 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:36:46,107 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:36:46,146 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:37:04,029 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:37:21,774 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:37:25,940 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:37:30,028 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:37:30,033 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:37:30,045 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:37:43,897 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:37:51,161 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:37:55,319 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:37:59,398 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:37:59,403 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:37:59,412 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:38:12,740 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:38:12,774 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:38:12,785 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:38:50,652 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:39:23,797 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:39:28,028 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:39:32,166 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:39:32,549 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:39:32,626 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:42:23,065 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:42:23,114 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:42:23,143 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:42:41,845 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:48:58,587 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:48:58,591 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:48:58,872 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:49:19,611 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:49:32,764 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+WARNING 2020-07-10 00:49:37,286 basehttp 124 "POST /user/login/ HTTP/1.1" 400 67
+INFO 2020-07-10 00:50:22,626 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:50:31,321 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:50:35,468 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:50:39,581 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:50:39,586 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:50:39,607 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:56:33,790 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:56:39,322 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:56:39,332 basehttp 124 "OPTIONS /user/login/ HTTP/1.1" 200 0
+INFO 2020-07-10 00:56:43,484 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:56:47,760 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:56:47,760 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:56:47,773 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 00:56:47,829 basehttp 124 "GET /media/banner/03_P8XpI8D.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:56:47,840 basehttp 124 "GET /media/banner/02_XqjTemn.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:56:47,850 basehttp 124 "GET /media/banner/01_8aBoAVW.png HTTP/1.1" 304 0
+INFO 2020-07-10 00:58:24,342 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 142
+INFO 2020-07-10 00:58:31,313 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 00:58:35,477 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 00:58:39,590 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 00:58:39,648 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 00:58:39,657 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+INFO 2020-07-10 01:03:47,196 basehttp 124 "GET /user/captcha/?username=admin HTTP/1.1" 200 140
+INFO 2020-07-10 01:03:59,220 basehttp 124 "POST /user/captcha/ HTTP/1.1" 200 17
+INFO 2020-07-10 01:04:03,402 basehttp 124 "POST /user/login/ HTTP/1.1" 200 222
+INFO 2020-07-10 01:04:07,489 basehttp 124 "GET /first/nav/ HTTP/1.1" 200 225
+INFO 2020-07-10 01:04:07,497 basehttp 124 "GET /first/banner/ HTTP/1.1" 200 272
+INFO 2020-07-10 01:04:07,506 basehttp 124 "GET /first/navs/ HTTP/1.1" 200 253
+WARNING 2020-07-10 01:05:11,129 basehttp 124 "GET /user/captcha/?username= HTTP/1.1" 400 29
